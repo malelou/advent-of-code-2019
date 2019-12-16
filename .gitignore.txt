@@ -1,0 +1,6 @@
+# Editors
+.vscode/
+
+# Cache
+__pycache__/
+*.py[cod]
